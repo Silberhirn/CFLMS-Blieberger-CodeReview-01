@@ -68,7 +68,6 @@ nav ul li {
 }
 
 #container1 {
-	overflow: hidden;
 	width: 900px;
 	margin-left: 50px;
 }
@@ -91,7 +90,6 @@ nav ul li {
 
 #container2 {
 	float: left;
-	overflow: hidden;
 	width: 400px;
 	margin-left: 50px;
 }
@@ -113,7 +111,6 @@ nav ul li {
 
 #container3 {
 	float: left;
-	overflow: hidden;
 	width: 400px;
 	margin-left: 100px;
 }
